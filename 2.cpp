@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-  cout<<"Monday"<<endl<<"November"<<endl<<"2019"<<endl<<"Alikhan";
+  cout<<"Monday"<<endl<<"November"<<endl<<"Alikhan";
   return 0;
  }
